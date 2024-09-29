@@ -4,7 +4,8 @@ const { HttpsProxyAgent } = require('https-proxy-agent');
 const readline = require('readline');
 
 function displayWelcomeMessage() {
-    const welcomeMessage = `#### ##  ### ###  ### ##   ##   ##    ####   ###  ##  #### ##   ## ##   ### ##   
+    const welcomeMessage = `
+#### ##  ### ###  ### ##   ##   ##    ####   ###  ##  #### ##   ## ##   ### ##   
 # ## ##   ##  ##   ##  ##   ## ##      ##      ## ##  # ## ##  ##   ##   ##  ##  
   ##      ##       ##  ##  # ### #     ##     # ## #    ##     ##   ##   ##  ##  
   ##      ## ##    ## ##   ## # ##     ##     ## ##     ##     ##   ##   ## ##   
